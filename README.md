@@ -1,6 +1,6 @@
 # muBooru
 The perfect booru
--# (full source code release is TBA)
+(full source code release is TBA)
 
 
 ## What is muBooru?
