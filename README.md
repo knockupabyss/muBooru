@@ -1,0 +1,2 @@
+# muBooru
+A perfect booru
